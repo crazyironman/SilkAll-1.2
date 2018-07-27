@@ -1883,3 +1883,28 @@
   width:45px;
   white-space:nowrap;
 }
+#u285_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:29px;
+  height:29px;
+}
+#u285 {
+  border-width:0px;
+  position:absolute;
+  left:330px;
+  top:9px;
+  width:29px;
+  height:29px;
+}
+#u285_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
